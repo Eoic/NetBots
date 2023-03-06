@@ -1,0 +1,3 @@
+[submodule "NetBots-Server"]
+	path = NetBots-Server
+	url = https://github.com/Eoic/NetBots-Server.git
