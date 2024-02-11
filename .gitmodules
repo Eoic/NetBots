@@ -1,6 +1,12 @@
 [submodule "NetBots-Server"]
 	path = NetBots-Server
 	url = https://github.com/Eoic/NetBots-Server.git
+	branch = master
 [submodule "NetBots-Client"]
 	path = NetBots-Client
 	url = https://github.com/Eoic/NetBots-Client.git
+	branch = master
+[submodule "NetBots-Web"]
+	path = NetBots-Web
+	url = git@github.com:Eoic/NetBots-Web.git
+	branch = master
