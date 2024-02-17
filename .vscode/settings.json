@@ -6,4 +6,7 @@
     },
     "eslint.format.enable": true,
     "eslint.lintTask.enable": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
 }
