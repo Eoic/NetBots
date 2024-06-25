@@ -11,7 +11,7 @@ Multiplayer real-time robot programming game for the web.
 5. [Contributing](#contributing)
 
 ### About
-This is a parent repository of the project and intended to hold links so subrepositories where specific system parts are implemented, specification, documentation and other non-code files related to the project, if the aforementioned items are common to the entire system and not only to some specific part.
+This is a parent repository of the project and intended to hold links to subrepositories where specific system parts are implemented, hold specification, documentation and other non-code files related to the project, if the aforementioned items are common to the entire system and not only to some specific part.
 
 ### Getting started
 1. **Clone the repository**
